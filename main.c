@@ -3,6 +3,5 @@
 
 int main(){
     printf("El nano es buena gente\n");
-    printf("Hola\n");
-    printf("Luis Carlos fraude\n");
+    printf("Es un tio enrollao\n");
 }
